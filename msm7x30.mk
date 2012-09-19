@@ -68,6 +68,7 @@ PRODUCT_PACKAGES += \
     copybit.msm7x30 \
     gralloc.msm7x30 \
     hwcomposer.msm7x30 \
+    camera.msm7x30 \
     libgenlock \
     libmemalloc \
     liboverlay \
